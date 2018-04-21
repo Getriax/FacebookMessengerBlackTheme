@@ -1,0 +1,65 @@
+body {
+  color: white !important; /*color of the text input*/
+}
+._nd_ ._hh7 { /*Containers of user messages*/
+  background-color: transparent !important;
+  color: white !important;
+  border: solid 1px white;
+}
+._hh7 {/*Containers of other messages*/
+  background-color: transparent !important;
+  color: white !important;
+  border: solid 1px yellow;
+}
+._hh7 a { /*Containers of other messages links*/
+  color: 	#F0F8FF !important;
+}
+._5i_d .__6k { /*The body of the message that is a link like one to google drive*/
+  color: white !important;
+  border-bottom: solid 1px !important;
+}
+._wu0 { /*code message ``` aaa ``` */
+  background: #929598 !important;
+}
+._4sp8 { /*background of the page*/
+  background-color: black !important;
+}
+._1ht6 { /*Usernames from left side*/
+  color: white !important;
+}
+._1htf { /*text of the 'last message' form the left side*/
+  color: yellow !important;
+}
+._3szq { /*right side text like: "Notifications"*/
+  color: white !important;
+}
+._2jnv, ._2jnx, ._2jnz, ._2jnx ._30e7 ._5j5f { /*Name of the conversation, right one*/
+  color: white !important
+}
+._17w2 { /*Name of the conversation, top one*/
+  color: white !important
+}
+._1lj0 { /*right side options, people etc.. HEADERS*/
+  color: white !important
+}
+._4rph ._4rpj { /*Add people text*/
+  color: white !important
+}
+._1ht7 { /*Time */
+  color: white !important
+}
+._5rpb { /* text input */
+
+}
+._kmc ._1p1t { /* text input hover */
+  -webkit-text-fill-color: #FFFFFF !important;
+}
+._ih3 { /* user name above message*/
+  color: white !important
+}
+._1ht1 { /*div of the chat room from the left side without first one*/
+  border-bottom: solid .2px white;
+}
+#facebook ._-kb div { /* Text of people in people section */
+  color: white !important
+}
