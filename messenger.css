@@ -63,3 +63,24 @@ body {
 #facebook ._-kb div { /* Text of people in people section */
   color: white !important
 }
+._4rv3 { /* cointainer of the text input*/
+  border-top: 1px solid #4b4f56 !important;
+}
+._2xhi { /* container of all messeges from the left side*/
+    border-right: .1px solid #4b4f56;
+}
+._673w { /* top cointainer right*/
+    border-bottom: 1px solid #4b4f56 !important;
+}
+._36ic { /* top cointainer left*/
+    border-bottom: 1px solid #4b4f56 !important;
+}
+._4_j5 { /* container of all properties from the right side*/
+    border-left: 1px solid #4b4f56 !important;
+}
+.uiScrollableAreaGripper { /*scrollbar of the messeges*/
+    background-color: #f6f7f9 !important;
+}
+.uiScrollableAreaTrack, .uiScrollableAreaDragging .uiScrollableAreaTrack { /*scrollbar backgroud*/
+    background-color: #1d2129 !important;
+}
